@@ -17,3 +17,5 @@ REFERENCES:
 https://www.kaggle.com/anmoltripathi/vehicle-collision-data-analysis-sdot
 
 https://www.kaggle.com/sstewart0/statistical-analysis
+
+https://www.kaggle.com/abrahamoh/california-s-fatal-car-accidents-who-s-fault-sql
