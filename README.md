@@ -8,7 +8,7 @@ Tech Stacks - Python (Pandas, Numpy, Sklarn, Matplotlib), SQLite Studio, Google 
 
 (2) In order to answer the quesion "Who is usually at fault?", only fatal collisions are considerd due to the memory issue.
 
-(3) For dashboard, 5000 records of fatal collisions are uploaded due to the memory issue.
+(3) For data studio dashboard, 5000 records of fatal collisions due to party fault are uploaded due to the memory issue.
 
 Dashboard Link - https://datastudio.google.com/s/ox9WkRDNba4
 
