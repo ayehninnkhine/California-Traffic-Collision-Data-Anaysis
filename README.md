@@ -1,6 +1,7 @@
 # California-Traffic-Collision-Data-Anaysis
 
 Data Source - https://www.kaggle.com/alexgude/california-traffic-collision-data-from-switrs
+
 Tech Stacks - Python (Pandas, Numpy, Sklarn, Matplotlib), SQLite Studio, Google Data Studio
 
 (1) Export CSV files from SQLite Studio (collisions, parties, csv)
